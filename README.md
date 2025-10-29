@@ -5,7 +5,7 @@ L’application créée est une maquette fonctionnelle composée :
 - d’une page d’accueil,
 - d’une page de profil,
 - accessibles via un menu.
-  # Objectifs pédagogiques
+  # Objectifs 
 
 Comprendre la structure d’un projet Ionic + Angular.
 
