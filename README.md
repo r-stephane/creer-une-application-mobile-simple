@@ -38,4 +38,3 @@ ionic capacitor add ios
 ionic capacitor run android
 ionic capacitor run ios```
 # Image
-<img width="1799" height="911" alt="Capture d’écran du 2025-10-29 11-04-27" src="https://github.com/user-attachments/assets/015b3f91-ce51-45d2-856c-ba1916847291" />
