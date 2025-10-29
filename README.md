@@ -37,4 +37,3 @@ ionic capacitor add android
 ionic capacitor add ios
 ionic capacitor run android
 ionic capacitor run ios```
-# Image
